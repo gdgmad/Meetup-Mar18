@@ -27,7 +27,7 @@ References
 
 ---
 
-### Rohan Kodekar [@rehan_kodekar](https://twitter.com/rehan_kodekar)
+### Rehan Kodekar [@rehan_kodekar](https://twitter.com/rehan_kodekar)
 [Slides](https://speakerdeck.com/thepunkprogrammer/introduction-to-flutter-and-dart)
 
 References:
